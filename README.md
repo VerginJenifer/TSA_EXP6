@@ -1,6 +1,7 @@
 # Ex.No: 6               HOLT WINTERS METHOD
 
 ### AIM: 
+To analyze monthly time series data using the Holt-Winters method and forecast future values by modeling the trend and seasonal patterns in the dataset.
 
 ### ALGORITHM:
 1. You import the necessary libraries
